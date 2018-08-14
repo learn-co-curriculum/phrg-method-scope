@@ -103,4 +103,8 @@ im_trapped_in_the_method
 
 Remember: A variable defined inside a method can't leave that method. It is not available to your program outside of the method. A variable defined outside of a method can only be made available to the code inside the method if you pass that variable in to the method as an argument. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-method-scope/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-method-scope/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Method Scope</p>
